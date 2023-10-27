@@ -31,14 +31,11 @@ Thank you for your help as always!
 - [@r4ven](https://www.github.com/larisho)
 
 
-##Install
+## Install
+
 - Download the files.
 - Throw it into a folder and make a resource.
 - Ensure it.
 - Ride into the sunset.
 
-
-## Support
-
 For support, join my [Discord](https://discord.gg/8gSRb5GcgG).
-
